@@ -1,7 +1,7 @@
 # Diploma-thesis
 
-This repository is for academic and research purposes only.
-Author: Georgios Takoutis
+- This repository is for academic and research purposes only.
+- Author: Georgios Takoutis
 
 ---
 
@@ -64,7 +64,8 @@ The notebooks generate:
    - The notebook will do all the steps: preprocessing, training models, showing results, and generating plots.  
 
 5. **See the results**  
-   - Scroll down to view performance tables, ROC curves, and LIME explanations.  
+   - Scroll down to view performance tables, ROC curves, and LIME explanations.
+   - Ignore any warning sign that you will see!!!  
 
 ---
 
