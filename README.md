@@ -41,7 +41,7 @@ The notebooks generate:
 - **Confusion matrices**  
 - **LIME explanations** on validation data (for model interpretability)
 
-
+---
 
 ## 🚀 How to Use in Google Colab (Simple Guide)
 
