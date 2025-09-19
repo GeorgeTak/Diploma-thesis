@@ -65,7 +65,7 @@ The notebooks generate:
 
 5. **See the results**  
    - Scroll down to view performance tables, ROC curves, and LIME explanations.
-   - Ignore any warning signs that you will see!!!  
+   - Ignore any warning signs that you will see.  
 
 ---
 
