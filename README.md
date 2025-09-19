@@ -36,9 +36,8 @@ Both datasets are modeled with six ML algorithms:
 ## 📊 Evaluation
 
 The notebooks generate:
-- **Performance metrics** (Accuracy, Precision, Recall, F1-Score)  
+- **Performance metrics** (Accuracy, Precision, Recall, F1-Score, AUC score)  
 - **ROC curves** for **validation and test sets**  
-- **Confusion matrices**  
 - **LIME explanations** on validation data (for model interpretability)
 
 ---
